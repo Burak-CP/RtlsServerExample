@@ -11,7 +11,6 @@ This project is an RTLS (Real-Time Location System) server that processes data f
 
 ## Requirements
 - Java Development Kit (JDK)
-- Maven
 - Database (PostgreSQL)
 - Network configuration for UDP communication
 
