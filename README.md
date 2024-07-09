@@ -17,7 +17,7 @@ This project is an RTLS (Real-Time Location System) server that processes data f
 ## Installation
 1. Clone this repository:
     ```sh
-    git clone https://github.com/burakkcmn/RtlsServerExample
+    git clone https://github.com/burakkcmn/RtlsServerExample.git
     ```
 2. Navigate to the project directory:
     ```sh
